@@ -1,0 +1,21 @@
+Account_Name,Type,System_name,Environment,Is_Critical,Compliance,Last_Changed,Days_Since_Change,Rotation_Status,Current_Strength
+app_admin_portal,Application,"Customer Portal Admin",Production,1,PCI-DSS,"2024-10-12 10:00:00",404,Overdue,NULL
+prod_db_admin,Database,"Oracle Production Cluster",Production,1,PCI-DSS,"2024-10-15 10:00:00",401,Overdue,95
+app_admin_cms,Application,"CMS Administrator",Production,0,None,"2024-10-16 14:00:00",400,Overdue,NULL
+svc_payment_api,Service,"Payment Gateway API",Production,1,PCI-DSS,"2024-10-18 10:00:00",398,Overdue,99
+prod_root_web01,Root,"Web Server Production-01",Production,1,SOX,"2024-10-20 14:00:00",396,Overdue,98
+svc_backup_prod,Service,"Backup Service Production",Production,1,SOX,"2024-10-22 12:00:00",394,Overdue,92
+net_admin_core,Admin,"Core Network Switch Admin",Production,1,None,"2024-10-24 10:00:00",392,Overdue,NULL
+prod_sa_sqlserver,Database,"SQL Server Production Main",Production,1,HIPAA,"2024-10-25 09:00:00",391,Overdue,96
+prod_admin_hr,Admin,"HR System Production",Production,1,HIPAA,"2024-10-28 11:00:00",388,Overdue,95
+svc_etl_prod,Service,"ETL Service Production",Production,1,None,"2024-10-30 12:00:00",386,Overdue,93
+prod_admin_erp,Admin,"ERP System Production",Production,1,SOX,"2024-11-01 11:00:00",384,Overdue,97
+svc_email_prod,Service,"Email Service Production",Production,0,None,"2024-11-02 08:00:00",383,Overdue,NULL
+svc_monitoring,Service,"Monitoring System Prod",Production,0,None,"2024-11-03 08:00:00",382,Overdue,91
+app_root_api,Application,"API Gateway Admin",Production,1,PCI-DSS,"2024-11-04 11:00:00",381,Overdue,NULL
+prod_root_app01,Root,"Application Server Prod-01",Production,1,PCI-DSS,"2024-11-05 16:00:00",380,Overdue,94
+net_admin_firewall,Admin,"Firewall Administrator",Production,1,PCI-DSS,"2024-11-06 14:00:00",379,Overdue,99
+cloud_admin_aws,Admin,"AWS Root Account",Production,1,SOX,"2024-11-07 11:00:00",378,Overdue,98
+prod_db_admin_fin,Database,"Financial Database Prod",Production,1,SOX,"2024-11-08 10:00:00",377,Overdue,97
+cloud_admin_azure,Admin,"Azure Global Admin",Production,1,SOX,"2024-11-09 12:00:00",376,Overdue,NULL
+prod_root_fin01,Root,"Financial Server Prod-01",Production,1,SOX,"2024-11-10 14:00:00",375,Overdue,98

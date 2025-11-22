@@ -1,0 +1,15 @@
+Type,Environment,Account_Count,Critical_Accounts,Avg_Days_Since_Password_Change,Recent_Access_Requests
+Admin,Production,6,6,382.8333,0
+Service,Production,5,3,388.6000,0
+Root,Production,3,3,383.6667,0
+Application,Production,3,2,395.0000,0
+Database,Production,3,3,389.6667,0
+Database,Staging,2,0,426.0000,0
+Admin,Staging,1,0,411.0000,0
+Admin,Development,1,0,445.0000,0
+Admin,QA,1,0,415.0000,0
+Root,Staging,1,0,426.0000,0
+Root,Development,1,0,457.0000,0
+Root,QA,1,0,431.0000,0
+Database,Development,1,0,462.0000,0
+Database,QA,1,0,436.0000,0
